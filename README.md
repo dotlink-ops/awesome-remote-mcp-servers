@@ -667,8 +667,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Crypto trading data via x402: Polymarket arbitrage, kimchi premium, token unlocks and funding rates.
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
-  🔓 - Sovereign bond valuation, FINRA TRACE secondary debt radar, OFAC screening and clearing fee modeling; x402 micropayments.
-(https://auseconmcp.com) `https://mcp.auseconmcp.com/mcp`
+  🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
+- [ausecon](https://auseconmcp.com) `https://mcp.auseconmcp.com/mcp`
   [![ausecon MCP connector](https://glama.ai/mcp/connectors/io.github.AnthonyPuggs/ausecon-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AnthonyPuggs/ausecon-mcp-server)
   🔓 - Read-only Australian economic data from ABS, RBA and APRA, including GDP, inflation and interest rates.
 - [Autoview](https://autoview.com/) `https://api.autoview.com/mcp/`
